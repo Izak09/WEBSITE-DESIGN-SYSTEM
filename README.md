@@ -40,4 +40,4 @@ Headings
 .mainpageheading: Font family set to Nunito Sans.
 .Subheading: Font family set to Poppins.
 Example Usage
-The style guide can be used to maintain a consistent design language across web projects. By adhering to the predefined colors, fonts, and text styles, developers can ensure uniformity and improve the visual coherence of web pages. The defined containers and text styles can be reused in various parts of the website to achieve a professional and polished loo
+The style guide can be used to maintain a consistent design language across web projects. By adhering to the predefined colors, fonts, and text styles, developers can ensure uniformity and improve the visual coherence of web pages. The defined containers and text styles can be reused in various parts of the website to achieve a professional and polished look.
