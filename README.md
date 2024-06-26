@@ -1,15 +1,17 @@
 Project Description: WEBSITE-DESIGN-SYSTEM
 WEBSITE-DESIGN-SYSTEM is a project aimed at providing a comprehensive style guide for web development. This system outlines the color schemes, font styles, and text formatting rules to ensure consistency and cohesiveness in web design. The style guide serves as a reference for developers and designers, detailing the specific styles to be applied across the website.
 
-HTML Description
+HTML DESCRIPTION:
 The HTML file structures the content of the style guide into clear sections:
 
-Meta Tags: Define the character set and viewport settings for responsiveness.
+META TAGS: 
+Define the character set and viewport settings for responsiveness.
 Title: Sets the title of the page as "Website Style Guide".
 CSS Link: Links to the external stylesheet index.css.
 Content Sections
 
-Main Heading: <h1 class="h1">Website Style Guide</h1>
+MAIN HEADING: 
+<h1 class="h1">Website Style Guide</h1>
 Colors Section: Lists predefined color palettes with class-based styling for containers:
 Cool Blue (#2d5dcc)
 Pink (#d957d9)
@@ -20,7 +22,7 @@ Text Styles Section: Shows different text styles including main page heading, su
 CSS Description
 The CSS file index.css defines the visual styling for various HTML elements and classes:
 
-Global Styles
+GLOBAL STYLES:
 
 Body: Sets a white border, default font family (Fira Sans), and basic font properties.
 Section-Specific Styles
